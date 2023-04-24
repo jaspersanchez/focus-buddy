@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div className="text-2xl">Hello FocusBuddy</div>;
+  return <div className="text-2xl"></div>;
 }
